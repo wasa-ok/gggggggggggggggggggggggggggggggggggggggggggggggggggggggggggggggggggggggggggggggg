@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color :rgb(255, 255, 255) ;
+padding:20px ;
+border:9px solid rgb(16, 9, 160);
+border-radius: 12px;
+}
+header a{
+background-color: rgb(0, 23, 137);
+color:antiquewhite;
+padding: 10px;
+text-decoration: none;
+}
+
+h1{
+color: rgb(177, 61, 3);
+text-align: center;
+font-size:50px ;
+}
+footer{
+color: forestgreen;
+background-color: rgb(255, 255, 255);
+}
+
+footer p{
+background-color: rgb(53, 61, 61);
+
+}
+
+.sss{
+background-color: lime;
+border: 20px solid rgb(0, 255, 21);
+border-radius: 999px;
+}
+
+.ooo{
+border:3px solid rgb(71, 80, 211);
+
+}
+
+ 
